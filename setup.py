@@ -19,8 +19,8 @@ setup(
     ],
     keywords = 'Counterfactual Explanations XAI',
     install_requires = [
-        'numpy>=1.16.2, <2.0.0',
-        'pandas>=0.23.3, <2.0.0',
+        'numpy>=1.16.2',
+        'pandas>=0.23.3',
     ],
     python_requires= '>=3.6'
 )
